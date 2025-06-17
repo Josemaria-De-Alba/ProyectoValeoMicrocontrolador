@@ -1,0 +1,1 @@
+Codigo Utilizado para el Microcontrolador dentro del proyecto de Valeo con el Tec de Monterrey. Este repositorio incluye el archivo con sus bibliotecas, un archivo de Proteus para simular el codigo digitalmente, y un archivo cof si solo quieres programar el microcontrolador.
